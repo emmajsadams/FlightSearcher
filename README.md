@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://gitlab.com/EmmaJCline/FlightSearcher)
+
 Please see the following app specific README.md files for more info on their architecture and how to run them.
 * FlightSearcherClient/README.md
 * FlightSearcherServer/Airports/README.md
